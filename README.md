@@ -8,8 +8,8 @@ I am a Software Engineering student at the [African Leadership University](https
 
 **About Me**:
 
-- 😊 Pronouns: He/him
-- 😊 Passionate about Backend Development and Machine Learning.
+- 😊 Pronouns: He/his/him
+- 😊 Passionate about Backend Development, Machine Learning and Data Science.
 - 💡 Fun facts: I love playing football and reading romance novels.
 - 🌱 I’m currently learning Python, Linux and C programming.
 - 😊 I’m open for help with open source projects, internships, hackathons, and entry-level programming opportunities.
