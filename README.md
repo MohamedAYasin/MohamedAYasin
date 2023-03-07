@@ -18,5 +18,5 @@ I am a Software Engineering student at the [African Leadership University](https
 
 ---
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=SundayOlubode&show_icons=true&include_all_commits=true&hide_border=true" alt="Olubode's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayOlubode&langs_count=8&layout=compact&hide_border=true" alt="Olubode's GitHub stats" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamedAYasin&show_icons=true&include_all_commits=true&hide_border=true" alt="Mohamed's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAYasin&langs_count=8&layout=compact&hide_border=true" alt="Mohamed's GitHub stats" /> |
 | ------------- | ------------- |
