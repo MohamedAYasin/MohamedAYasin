@@ -8,13 +8,13 @@ I am a Software Engineering student at the [African Leadership University](https
 
 **About Me**:
 
-- 😊 Pronouns: He/his/him
+- 😊 Future Entrepreneur & Professor.
 - 😊 Passionate about Backend Development, Machine Learning and Data Science.
 - 💡 Fun facts: I love playing football and reading romance novels.
-- 🌱 I’m currently learning Python, Linux and C programming.
+- 🌱 I’m currently learning Python, Linux, SQL and C programming.
 - 😊 I’m open for help with open source projects, internships, hackathons, and entry-level programming opportunities.
 - 💼 Job interests: Software Engineering, Backend Development (Internships or Junior level jobs).
-- 📫 You can contact me by emailing mayasinalu@gmail.com.
+- 📫 You can reach me by email: mayasinalu@gmail.com.
 
 ---
 
