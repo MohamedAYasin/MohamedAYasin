@@ -8,13 +8,13 @@ I am a Software Engineering student at the [African Leadership University](https
 
 **About Me**:
 
-- 😊 Future Entrepreneur & Professor.
-- 😊 Passionate about Backend Development, Machine Learning and Data Science.
+- 😊 
+- 😊 Passionate about Full Stack Development, Machine Learning and Data Science.
 - 💡 Fun facts: I love playing football and reading romance novels.
 - 🌱 I’m currently learning Python, Linux, SQL and C programming.
-- 😊 I’m open for help with open source projects, internships, hackathons, and entry-level programming opportunities.
-- 💼 Job interests: Software Engineering, Backend Development (Internships or Junior level jobs).
-- 📫 You can reach me by email: mayasinalu@gmail.com.
+- 😊 I’m passionate about initiating and contributing to ideas that solve problems at the intersection of technology and entrepreneurship. I love tech because it helps us solve problems across every sphere of society.
+- 💼 Job interests: Software Engineering, Full Stack Development (Internships or Junior level jobs).
+- 📫 You can reach me by Email: mayasinalu@gmail.com.
 
 ---
 
