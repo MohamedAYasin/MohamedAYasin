@@ -8,7 +8,7 @@ I am a Software Engineering student at the [African Leadership University](https
 
 **About Me**:
 
-- 😊 Tech Enthusiast who codes at least 5 hours everyday!
+- 😊 Tech Enthusiast and quality education activist!
 - 😊 Passionate about Full Stack Development, Machine Learning and Data Science.
 - 💡 Fun facts: I love playing football and reading romance novels.
 - 🌱 I’m currently learning Python, Linux/Shell, SQL and Web Development.
