@@ -1,6 +1,6 @@
 # Mohamed Yasin
 Profile
-# Selaaaam; welcome to my cosmos 👋🏾
+# Selaaaam 😊 welcome to my cosmos 👋🏾
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)
 
