@@ -4,7 +4,7 @@ Profile
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)
 
-I am a Software Engineering student at the [African Leadership University](https://www.alueducation.com/) and the [Fikrcamp Bootcamp](https://www.fikrcamp.com//). I am fascinated by creative and logical engagements and love to participate in tech-related activities.
+I am a Software Engineering student at the [African Leadership University](https://www.alueducation.com/), [Hoberton School](https://www.holbertonschool.com/) and the [Fikrcamp Bootcamp](https://www.fikrcamp.com//). I am fascinated by creative and logical engagements and love to participate in tech-related activities.
 
 **About Me**:
 
