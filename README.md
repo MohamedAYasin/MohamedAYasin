@@ -2,6 +2,11 @@
 Profile
 # Selaaaam 👋🏾 welcome to my cosmos 😊
 
+<div align="center">
+<img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
+
+</div>
+
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)
 
 I am a Software Engineering student at the [African Leadership University](https://www.alueducation.com/), [The Holberton School](https://www.holbertonschool.com/) and the [Fikrcamp Bootcamp](https://www.fikrcamp.com//). I am fascinated by creative and logical engagements and love to participate in tech-related activities.
