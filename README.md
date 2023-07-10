@@ -7,7 +7,7 @@
 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)  [![Threads Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=instagram&logoColor=white&link=[https://www.threads.net/@mohamedyasinnn](https://www.threads.net/@mohamedyasinnn))](https://www.threads.net/@mohamedyasinnn)
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)  [![Threads Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=threads&logoColor=white&link=[https://www.threads.net/@mohamedyasinnn](https://www.threads.net/@mohamedyasinnn))](https://www.threads.net/@mohamedyasinnn)
 
 I am a Software Engineering student at the [African Leadership University](https://www.alueducation.com/) and [The Holberton School](https://www.holbertonschool.com/). I am fascinated by creative and logical engagements, and I love participating in tech-related activities.
 
