@@ -15,10 +15,10 @@ I am a Software Engineering student at the [African Leadership University](https
 
 - 😊 Tech Enthusiast and Quality Education Activist!
 - 😊 Passionate about Full Stack Development, Machine Learning and Data Science.
-- 💡 Fun facts: I love playing football and reading romance novels.
-- 🌱 I’m currently learning Python, Linux/Shell and Web Development.
-- 😊 I love initiating and contributing to ideas that solve problems at the intersection of technology and entrepreneurship.
-- 💼 Job interests: Software Engineering (Internships or Junior level jobs).
+- 💡 Fun facts: I love watching football and reading romance novels.
+- 🌱 I’m currently learning Python Libraries and Machine Learning.
+- 😊 I love initiating and contributing to ideas that solve problems at the intersection of Technology and Entrepreneurship.
+- 💼 Job interests: Software Engineering/Data Science (Internships or Junior level jobs).
 - 📫 You can reach me by Email: mayasinalu@gmail.com.
 
 ---
