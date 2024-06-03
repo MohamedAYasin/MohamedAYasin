@@ -7,7 +7,7 @@
 
 </div>
 
-[![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)  [![Github Badge](https://img.shields.io/badge/-Threads-1ca0f1?style=for-the-badge&logo=github&logoColor=white&link=[https://mohamedayasin.github.io/portfolio/](https://mohamedayasin.github.io/portfolio/))](https://mohamedayasin.github.io/portfolio/)
+[![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)  [![Github Badge](https://img.shields.io/badge/-Github-1ca0f1?style=for-the-badge&logo=github&logoColor=white&link=[https://mohamedayasin.github.io/portfolio/](https://mohamedayasin.github.io/portfolio/))](https://mohamedayasin.github.io/portfolio/)
 
 I am a Software Engineering student at the [African Leadership University](https://www.alueducation.com/) and [The Holberton School](https://www.holbertonschool.com/). I am fascinated by creative and logical engagements, and I love participating in tech-related activities.
 
