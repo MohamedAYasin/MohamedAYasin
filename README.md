@@ -1,6 +1,6 @@
-# Mohamed Yasin
+# Mohamed A. Yasin
 
-# Kaltxì 👋🏾 welcome to my Pandora! 😊
+# Kaltxì 👋🏾 WELCOME TO MAY PANDORA! 😊
 
 <div align="center">
 <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
