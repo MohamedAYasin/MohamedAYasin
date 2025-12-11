@@ -1,6 +1,6 @@
 # Mohamed Yasin
 
-# Selaaaam 👋🏾 welcome to my cosmos 😊
+# Selaaaam 👋🏾 welcome to my aduunyo! 😊
 
 <div align="center">
 <img align="center" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" height="180" />
@@ -13,12 +13,11 @@ I am a Software Engineering student at the [African Leadership University](https
 
 **About Me**:
 
-- 💻 Tech Enthusiast and Quality Education Activist!
+- 💻 Tech Enthusiast, Quality Education Activist and Global Affairs Aficionado!
 - 📊 Passionate about Artificial Intelligence, Machine Learning and Data Science.
-- 💡 Fun facts: I love watching football and reading romance novels. YNWA
-- 🌱 I’m currently learning Python Libraries and Machine Learning.
-- ❤️ I love initiating and contributing to ideas that solve problems at the intersection of Technology and Entrepreneurship.
-- 💼 Job interests: Software Engineering/Data Science Roles (Internships or Junior level jobs).
+- 💡 Love watching football and reading romance novels. YNWA
+- 🌱 Currently learning Python Libraries and Machine Learning.
+- ❤️ Love initiating and contributing to ideas that solve problems at the intersection of Technology, Global Affairs and Entrepreneurship.
 - 📧 You can reach me by Email: mayasinalu@gmail.com. ✌️
 
 ---
