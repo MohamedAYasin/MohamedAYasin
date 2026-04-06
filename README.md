@@ -16,7 +16,7 @@ I am a Software Engineering student at the [African Leadership University](https
 - 💻 Tech Enthusiast, Quality Education Activist and Global Affairs Aficionado!
 - 📊 Passionate about Artificial Intelligence, Machine Learning and Data Science.
 - 💡 Love watching football and reading romance novels. YNWA
-- 🌱 Currently learning Python Libraries and Machine Learning.
+- 🌱 Currently learning Deep Learning and ML Research.
 - ❤️ Love initiating and contributing to ideas that solve problems at the intersection of Technology, Global Affairs and Entrepreneurship.
 - 📧 You can reach me by Email: mayasinalu@gmail.com. ✌️
 
