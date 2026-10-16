@@ -9,16 +9,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-MohamedAYasin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/mayyassin/](https://www.linkedin.com/in/mayyassin/))](https://www.linkedin.com/in/mayyassin/) [![Twitter Badge](https://img.shields.io/badge/-@mayammeeen-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mayammeeen)](https://twitter.com/mayammeeen)
 
-I am a Software Engineering student at the [African Leadership University](https://www.alueducation.com/) and [The Holberton School](https://www.holbertonschool.com/). I am fascinated by creative and logical engagements, and I love participating in tech-related activities.
+I am a Software Engineering graduate at the [African Leadership University](https://www.alueducation.com/) and [The Holberton School](https://www.holbertonschool.com/). I am fascinated by creative and logical engagements, and I love participating in tech-related activities.
 
 **About Me**:
 
 - 💻 Tech Enthusiast, Quality Education Activist and Global Affairs Aficionado!
-- 📊 Passionate about Artificial Intelligence, Machine Learning and Data Science.
+- 📊 Passionate about Artificial Intelligence Ethics, Machine Learning and Data Science.
 - 💡 Love watching football and reading romance novels. YNWA
 - 🌱 Currently learning Deep Learning and ML Research.
 - ❤️ Love initiating and contributing to ideas that solve problems at the intersection of Technology, Global Affairs and Entrepreneurship.
-- 📧 You can reach me by Email: mayasinalu@gmail.com. ✌️
+- 📧 If you wanna collab, you can reach me by Email: mayasin2016@gmail.com. ✌️
 
 ---
 
