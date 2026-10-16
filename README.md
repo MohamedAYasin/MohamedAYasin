@@ -1,4 +1,4 @@
-# Mohamed A. Yasin
+# Mohamed Yassin
 
 # Kaltxì 👋🏾 WELCOME TO MAY PANDORA! 😊
 
